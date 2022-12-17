@@ -1,0 +1,11 @@
+{
+    "node_id": "10.0.0.10",
+    "port_flooding": 3000,
+    "port_streaming": 4000,
+    "ports": [
+                {"ip": "10.0.0.20", "port": "3005"}
+            ],
+    "is_bigNode": false,
+    "is_server": true,
+    "connections": ["10.0.0.20"]
+}
